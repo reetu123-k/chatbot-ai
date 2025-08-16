@@ -15,3 +15,5 @@ A simple yet powerful web-based chatbot built using HTML, CSS, and JavaScript th
 - Asynchronous message handling with `fetch()`
 - Error handling for failed API responses
 - Clean and minimalist UI design
+- 
+-[Chatbot Screenshot]("C:\Users\HP\Desktop\CHATBOT AI\screenshot-demo.png")
